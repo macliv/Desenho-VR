@@ -1,0 +1,6 @@
+{
+  "name": "Desenho na Folha",
+  "description": "Câmera lúcida para desenhar por cima na folha com controle de LED, opacidade, trava de posição, zoom e gestos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

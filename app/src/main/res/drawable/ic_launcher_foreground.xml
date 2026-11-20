@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sheet of paper centered inside 66dp safe zone (27..81) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M32,27 L76,27 C78.2,27 80,28.8 80,31 L80,77 C80,79.2 78.2,81 76,81 L32,81 C29.8,81 28,79.2 28,77 L28,31 C28,28.8 29.8,27 32,27 Z" />
+    <!-- Four corner calibration squares -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M32,31 h6 v6 h-6 z M70,31 h6 v6 h-6 z M32,71 h6 v6 h-6 z M70,71 h6 v6 h-6 z" />
+    <!-- Projected camera lucida reticle & diamond sketch on paper -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M54,40 L65,54 L54,68 L43,54 Z" />
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,46 L60,54 L54,62 L48,54 Z" />
+    <!-- Emerald registration dot -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,54 m-3.5,0 a3.5,3.5 0,1 1,7 0 a3.5,3.5 0,1 1,-7 0" />
+</vector>
